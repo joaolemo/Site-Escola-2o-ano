@@ -43,6 +43,9 @@
 }
 body{font-family: 'Poppins', sans-serif;}
 
-.imagem-escola{
+.imagem-alunos{
    width: 20%;
+}
+.estudante-imagem{
+    width: 15%;
 }
